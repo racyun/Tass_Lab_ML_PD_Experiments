@@ -5,7 +5,7 @@ My role in this project involves developing and evaluating machine learning mode
 Repository Overview: 
 
 crs_plastic_neurons_experiments
- - This folder contains experiments using neural networks to analyze synchronized and multistable activity across different types of plastic neuron networks: homogeneous, intermediate, and inhomogeneous.
+ - This folder contains experiments using neural networks to analyze synchronized-state and multistable activity across different types of plastic neuron networks: homogeneous, intermediate, and inhomogeneous.
 
 
 parkinsons_voice_measurements_classification
